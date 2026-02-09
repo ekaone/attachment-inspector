@@ -27,7 +27,7 @@ An application that allows you to inspect and analyze UI elements from images. T
 1. Clone the repository:
 ```bash
 git clone https://github.com/ekaone/attachment-inspector
-cd ui-attachment-inspector
+cd attachment-inspector
 ```
 
 2. Install dependencies:
